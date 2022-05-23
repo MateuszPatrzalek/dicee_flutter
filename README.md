@@ -1,16 +1,8 @@
-# dice_flutter
+# Dicee flutter app
 
-A new Flutter project.
+Dice is an intuitive, simple app that can be used for any situation that requires random number generation. You can roll up two dice at once by clicking at one dice.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1653247544](https://user-images.githubusercontent.com/36672872/169786351-1aff8063-db2a-450d-9ac9-296a653d5558.png)
+![Screenshot_1653247548](https://user-images.githubusercontent.com/36672872/169786359-ed8b316d-fcd3-49de-bc76-cf7ee4125d3b.png)
+![Screenshot_1653247582](https://user-images.githubusercontent.com/36672872/169786360-31918bbd-8387-4f88-a9ca-9c72669b371a.png)
